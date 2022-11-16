@@ -1,0 +1,13 @@
+{
+    // "incrementalBuildIgnoredGlobs": [],
+    // "disableBuildCacheForProject": false,
+    "operationSettings": [
+        {
+            "operationName": "build",
+            "outputFolderNames": [
+                "dist"
+            ],
+            // "disableBuildCacheForOperation": false
+        }
+    ]
+}

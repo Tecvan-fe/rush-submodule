@@ -1,0 +1,23 @@
+{
+  "name": "rush-submodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tecvan-fe/rush-submodule.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tecvan-fe/rush-submodule/issues"
+  },
+  "homepage": "https://github.com/Tecvan-fe/rush-submodule#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
